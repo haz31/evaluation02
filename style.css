@@ -1,0 +1,106 @@
+html{
+	background: black;
+}
+
+.début {
+	display: flex;
+	justify-content: space-around;	
+}
+
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+	margin-top: 20px;
+	
+}
+
+
+header{
+	background-color: black;
+
+}
+
+.Simplon {
+	margin-top: 10px;
+	width: 3%;
+	height: 3%;
+}
+
+.button
+{
+	 background-color: red; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+h5 {
+	color: #FFFFFF
+}
+
+p {
+  font-size: 1.5em;
+  color: snow;
+  background-color: transparent;
+  background-image: none;
+}
+
+section {
+
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+
+}
+.teste{
+	  width: 100%;
+      height: 100%;
+
+}
+
+
+.scrubs{
+	display: flex;
+   justify-content: space-around;
+   align-items: center;
+
+}
+.bleu{
+	width: 33%;
+	height: 33%;
+}
+
+.foutu{
+	display: flex;
+   justify-content: space-around;
+   align-items: center;
+  }
+
+.tof{
+	width: 67%;
+	height: 67%;
+
+}
+.oupas{
+	display: flex;
+	flex-direction: row-reverse;
+}
+.etunechoco{
+	width: 50%;
+	height: 50%;
+}
+
+.button2 {
+  background-color: red; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
